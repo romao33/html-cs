@@ -1,0 +1,74 @@
+CIRCULO CROMATICO
+inconsciente agradavel-simetria/cor
+
+PRIMARIAS-Amarelo vermelho e azul
+SECUNDARIAS-Laranja,violetas e verde
+TERCIARIAS-Tons pasteis Junção Entre primaria e segunda(amarelo-esverdeado,amarelo alaranjado/vermelho alaranjado,vermelho-arroxeado,azul arroxeado,azul esverdeado)
+
+Cores FRIAS/QUENTES
+
+PALETA 3a5 CORES (Desconsiderando preto e branco)
+
+CORES COMPLEMENTARES(Contraste)
+Cor oposta na mesma reta
+
+CORES ANALOGAS(parecida,semelhante)
+Cores do lado da principal vizinha
+
+CORES ANALOGAS RELACIONADAS(parecida,semelhante)
+Uma vizinha,outra vizinha da vizinha,pulando 1 casa
+
+CORES INTERCALADAS (Triatica  3 casas ou Tetratico 4casas)
+Pulando 1 casa para 2 lados
+
+MONOCROMATICO
+1 COR muda saturação e luminosidade
+ADOBECOLOR
+PALETON
+COOLORS
+colorzila-Baixar e capturar cor 
+_______________________
+Tipografia
+GLIFO= letra
+Como deixar letra melhor para ler
+tipos e emoção
+
+ANATOMIA DO TIPO
+x-altura
+-ascendente e descentente (vazamento da letra_
+altura das maiusculas
+altura do corpo-soma de todos
+SERIFA
+FILETE HASTE ARCO ESPORÃO VERTICE TERMINAL
+BRACO PERNA PÉ ESPINHA BARRIGA OLHO ORELHA CAUDA
+
+ variacao-ligth normal negrito-bold
+
+CATEGORIAS DE FONTES
+________________________
+BOX MODEL
+Esquema  de caixas,caixas dentro de casa (aninhamento)
+ANATOMIA DA CAIXAheight-Altura
+width -Largura
+border-linha que circula
+outline-tracado fora do eemento
+padding-Acolchoamento(roupa/engordando)
+marginAcolchoamento-(fora da borda)
+
+TIPOS DE CAIXA
+box-level
+Se inicia em 1 linha
+ocupa toda horizontal
+<div>      <header>  <footer>
+<h1>-<h6>  <nav>     <form>
+<p>         <article><video>
+<main>      <aside>
+
+
+display:inline/block(mostrar como)
+inline levels      
+mesma linha
+ocupa tamanho que precisa
+<span> <a> <code>
+<small> <em>  <sup><sub>
+<label><button><intup> <select>                                      

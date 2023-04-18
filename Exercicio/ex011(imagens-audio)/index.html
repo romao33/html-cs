@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Midias em HTML5</title>
+</head>
+<body>
+    <h1>Imagem Dinamica</h1>
+    <p>Tente abrir essa imagem em varios dispositivis diferentes ou simplesmente aumente e diminua o tamanho do seu navegador.</p>
+  <picture>
+    <source media="(max-widht: 750px)" scr="imagens/fotom-p.jpg" type="imagem/jpg">
+    <source media="(max-width:1050px )" srcset="imagens/fotom-m.jpg-" type="imagem/jpg">
+    <img src="imagens/fotom-g.jpg" alt="imagem flexivel">
+   </picture>
+
+    <h1>Reproduzindo Audío</h1>
+    <p>Vamos aprender a reproduzir áudios em HTML5</p><!--Funcionam mp3 WAV OGG -->
+    
+    <audio preload="metadata" controls loop><!--Quando carrega? Quando clicar/ loop recarrega-->
+        <source src="media/rapmistakes.mp3" controls type="audio/mpeg">
+        <source scr=" media/rapmistake.ogg" controls type="audio/ogg">
+        <source scr=" media/rapmistake.wav" controls type="audio/wav">
+        <p>infelizmente seu navegador não consegue reproduzir audio</p>
+        </audio>
+    
+</body>
+</html>

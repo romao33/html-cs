@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="pt-br">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grouping Tags</title>
+    <style>
+        body{
+            font-family:Arial, Helvetica, sans-serif;
+            background-color: dimgray;
+            margin:0px;
+        }
+        header{
+            background-color: white;
+            padding: 10px;
+            margin:10px;
+        }
+        nav{
+            background-color: darkgray;
+            padding:3px;
+            box-shadow: 1px 1px 1px 1px black; /*SOMBRA ofsetX ofsetY Blur(EMBAÇAMENTO) Spread(ESPAÇAMENTO)*/
+        }
+        nav>a{
+            text-decoration: none;
+            color: white;
+            font-weight: bold;
+            margin-right: 30px;
+        }
+        main{
+            background-color: white;
+            padding: 10px;
+            margin:10px;
+            border-radius: 20px; /*ARREDONDAMENTO*/
+        }
+        article{
+            background-color: lightgray;
+            padding: 5px;
+        }
+        article >aside{
+            background-color: darkgray;
+        }
+        footer{
+            background-color: black;
+            color:white;
+            text-align: center;
+            padding:1px;
+            margin:0px;
+        }
+        footer>p{
+            margin:0px;
+      }
+      div#bola{
+        height: 100px;
+        width: 100px;
+        margin: 10px;
+        background-color: white;
+        border-radius: 50%;
+      }
+                
+    </style>
+</head>
+<body>
+    <header> <!--Cabeçaho-->
+        <h1>Meu Site</h1>
+        <nav>
+            <a href="#">Links</a>
+            <a href="#">Links</a>
+            <a href="#">Links</a>
+            <a href="#">Links</a>
+        </nav>
+    </header>
+    <main>
+        <section id="assuntos">
+            <p>Esportes Politica Tecnologia</p>
+        </section>
+        <section id="noticias">
+            <article>
+                <h2> Noticias sobre o Brasil</h2>
+                <p>O Brasil é conhecido mundialmente por sua paixão pelo futebol. A cultura do futebol é tão forte no país que é considerada por muitos como uma religião. O futebol é parte integrante da identidade brasileira, e os jogadores são tratados como heróis nacionais. A seleção brasileira de futebol é uma das mais bem-sucedidas do mundo, tendo vencido cinco vezes a Copa do Mundo. Além disso, o Brasil é o lar de alguns dos maiores clubes de futebol do mundo, como o Flamengo e o Corinthians. O futebol é um esporte que une as pessoas e transcende barreiras culturais, sendo um elemento chave da cultura brasileira.</p>
+                <aside>
+                    <p>Artigo escrito por  Roger Guedes</p>
+                </aside>
+            </article>
+            <article>
+
+            </article>
+        </section>
+    </main>
+    <footer> <!--Rodapé-->
+        <p> Desenvolvido pelo Cursoemvideo</p>
+    </footer>
+    <div id="bola"></div>
+</body>
+</html>
