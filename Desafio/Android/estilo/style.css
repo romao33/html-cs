@@ -47,7 +47,7 @@ header>h1{
     font-size: 3em;
     padding-top: 40px;
     font-weight: normal;
-    margin-bottom: 20px;    
+    margin-bottom: 20px; 
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.51);
 }
 header > p {
@@ -58,6 +58,7 @@ header > p {
     padding-right: 10px;
     padding-left: 10px;
     margin:auto;
+    padding-bottom: 50px;
     
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.263);
 }
