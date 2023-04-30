@@ -71,4 +71,7 @@ mesma linha
 ocupa tamanho que precisa
 <span> <a> <code>
 <small> <em>  <sup><sub>
-<label><button><intup> <select>                                      
+<label><button><intup> <select>            
+____________________
+TABELA
+Não usar para criar estrutura de site                          
