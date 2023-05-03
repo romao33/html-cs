@@ -74,4 +74,8 @@ ocupa tamanho que precisa
 <label><button><intup> <select>            
 ____________________
 TABELA
-Não usar para criar estrutura de site                          
+Não usar para criar estrutura de site      
+_______
+IFRAME 
+FRAME NA LINHA/QUADRO EM LINHA
+                    
