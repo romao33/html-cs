@@ -18,7 +18,7 @@ header > h1 {
 }
 menu ul {
     list-style-type: none;
-    background-color: darkgray;
+    background-color: gray;
 }
 menu li {
     background-color: gray;

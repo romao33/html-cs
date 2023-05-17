@@ -78,4 +78,16 @@ Não usar para criar estrutura de site
 _______
 IFRAME 
 FRAME NA LINHA/QUADRO EM LINHA
+Navegar em outro site na mesma pagina
+______
+Media Query
+Mobile Fist-Celular primeiro
+
+Typicah Device Breakpoints
+
+Pequenas Telas:até 600px
+Celular:de 600px até 768px
+tablet:768px ate 992px
+desktop:992 até 1200px
+Grandes telas:Acima de 1200px
                     
